@@ -1,0 +1,8 @@
+{
+  "name": "misty-node-es6",
+  "main": "app.mjs",
+  "dependencies": {
+    "superagent": "^5.1.0",
+    "ws": "^7.1.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "arrowFunctions": true,
+            "modules": true
+        },
+        "sourceType": "module"
+    }
+}
